@@ -1,5 +1,13 @@
 # Changelog
 
+## [20.19.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.18.0...v20.19.0) (2024-09-27)
+
+
+### Features
+
+* **add:** TRV07 ([#8029](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8029)) ([6ba63c2](https://github.com/Koenkk/zigbee-herdsman-converters/commit/6ba63c2c2b6e3750a00ae2b11e67b47080c7270d))
+* Improve multi-endpoint support for lights ([#8031](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8031)) ([2f0567d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/2f0567de785ee06e6de67a5b2cad3886fd487e0a))
+
 ## [20.18.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.17.1...v20.18.0) (2024-09-25)
 
 
